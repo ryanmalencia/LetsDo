@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">"Let's Do "</string>
+    <string name="empty_list">"No ToDos yet! Tap to add one"</string>
+    <string name="todo_name">ToDo Name</string>
+    <string name="new_todo">Create New ToDo</string>
 </resources>
